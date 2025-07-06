@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+input[type="file"]::file-selector-button {
+  border-radius: 8px;
+  background-color: rgba(144, 144, 144, 0.429);
+  padding: 2px 6px;
+  cursor: pointer;
+}
+
+
+::-webkit-scrollbar {
+  width: 0px;
+  height: 6px;              
+}
+
+.break-after-page {
+  page-break-after: always;
+}
+
+::-webkit-scrollbar-track {
+  background: #00628332;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0062836b;
+  border-radius: 10px;
+}
