@@ -49,7 +49,14 @@ ECoR-ID-Card/
 
 
 ###  ID Card Registration (For Gazzeted)
-<img src="Frontend/assets/Emp Reg (Gaz).png" width="400" alt="Login Page">
+<img src="Frontend/assets/Emp Reg (Gaz).png" width="400" alt="ID Card Registration (For Gazzeted)">
+
+
+###  Status Page
+##### Where Employees can check their ID Card Status
+<img src="Frontend/assets/Emp Reg (NG).png" width="400" alt="ID Card Registration (For Non Gazzeted)">
+
+
 
 
 
