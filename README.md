@@ -1,113 +1,90 @@
-📇 ECoR ID Card Generator
-A full-stack web application developed as an internship project at East Coast Railways (ECoR), Bhubaneswar, for generating ID cards for Gazetted and Non-Gazetted railway employees.
+# 🪪 ECoR ID Card Generator
+An official web-based ID card generation system for **Gazetted** and **Non-Gazetted** employees of **East Coast Railways (ECoR), Bhubaneswar**.  
+This full-stack project was developed as part of an Summer Internship Programme 2025 and automates the creation, management, and printing of employee ID cards.
 
-🔧 Tech Stack
-Frontend:
-React.js
+---
 
-Tailwind CSS
+## 📁 Project Structure
+ECoR-ID-Card/
+├── Backend/ # Node.js + Express REST API
+├── Frontend/ # React.js  + Tailwind CSS (Web Interface)
+---
+## 🚀 Features
+-  Admin & User Authentication with JWT
+-  Separate modules for Gazetted & Non-Gazetted employees
+-  Auto-filled ID card preview and printable format
+-  Searchable tables for employee application status
+- ️ Photo upload and image preview support
+-  Vercel-ready deployment (for frontend)
+- ️ Authenticated routes and protected access
+---
+# ️ Tech Stack
 
-Vite
+###  Backend
+- Node.js
+- Express.js
+- MongoDB (via Mongoose)
+- JWT (JSON Web Token)
+- Multer (for file uploads)
+- CORS
 
-Backend:
-Node.js
+###  Frontend
+- React.js
+- Tailwind CSS
+- Vite (React Fast Build Tool)
+- Axios (for API integration)
+- Context API (for state management)
+---
 
-Express.js
+##  Screenshots
 
-MongoDB (Mongoose ODM)
+> Add screenshots of:
+- Admin dashboard
+- ID card preview
+- Login page
+- Employee table
 
-🚀 Features
-🔐 User Authentication
+###### In Progress....
+---
+##  Setup Instructions
 
-JWT-based login for Admin and Employees
+### Prerequisites
+- Node.js
+- MongoDB (local or cloud)
+- Git
 
-🆔 ID Card Generation
-
-Auto-generates ID cards for Gazetted and Non-Gazetted staff
-
-📁 File Upload
-
-Upload profile pictures and documents
-
-📊 Application Status
-
-Track card status: Pending, Approved, or Printed
-
-🧾 Print-Ready View
-
-Custom-designed front and back ID card layouts
-
-🛡️ Protected Routes
-
-Admin-only and user-only dashboard components
-
-🧩 Modular Architecture
-
-Clean separation of backend logic, middleware, routes, and services
-
-🗂️ Project Structure
-css
-Copy
-Edit
-ecor-id-card-project-main/
-├── Backend/
-│   ├── controllers/
-│   ├── db/
-│   ├── middlewares/
-│   ├── models/
-│   ├── routes/
-│   ├── services/
-│   ├── server.js
-│   └── app.js
-│
-├── Frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── context/
-│   │   └── main.jsx
-│   └── index.html
-🛠️ How to Run Locally
-1. Clone the Repository
-bash
-Copy
-Edit
+### 1. Clone the Repository
+```
 git clone https://github.com/Jashmit918/ECoR-ID-Card.git
 cd ECoR-ID-Card
-2. Setup Backend
-bash
-Copy
-Edit
+```
+### 2. Setup Backend
+```
 cd Backend
 npm install
-# Create a .env file with the following variables:
-# MONGO_URI=<your_mongodb_connection_string>
-# PORT=3000
-# JWT_SECRET=<your_jwt_secret>
+```
+##### Create a .env file in /Backend:
+```
+MONGO_URI=your_mongo_connection_string
+PORT=3000
+JWT_SECRET=your_secret_key
+```
+##### Then run the server:
+```
 npm start
-3. Setup Frontend
-bash
-Copy
-Edit
+```
+### 3. Setup Frontend
+```
 cd ../Frontend
 npm install
 npm run dev
-Frontend runs on: http://localhost:5173
-Backend runs on: http://localhost:3000
+```
 
-📸 Screenshots
-(Add screenshots here showing the login page, dashboard, and ID card previews)
+##  Authentication Flow
+Login: Users authenticate using id/password.
+Token: JWT stored in localStorage.
+Protected Routes: Guards prevent access to sensitive areas unless authenticated.
 
-📌 Deployment
-Frontend: Deployed on Vercel
-
-Backend: Can be deployed on Render, Railway, or any Node.js hosting
-
-🏢 About the Internship
-This project was developed as part of a summer internship at East Coast Railways (ECoR), Bhubaneswar, with the aim of digitizing the ID card generation process for internal staff management.
-
-👨‍💻 Developed By
-Jashmit Kumar
-B.Tech CSE – Internship Project 2025
-GitHub: @Jashmit918
+## ️ Internship Organization
+East Coast Railways, Bhubaneswar
+Official government body under Indian Railways.
