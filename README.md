@@ -40,22 +40,22 @@ ECoR-ID-Card/
 
 
 ## Screenshots
-### Login Page
+### _Login Page_
 
 <img src="Frontend/assets/Admin%20Login%20Page%20Filled.png" width="400" alt="Login Page">
 
 
-###  ID Card Registration (For Non Gazzeted)
+###  _ID Card Registration (For Non Gazzeted)_
 
 <img src="Frontend/assets/Emp Reg (NG).png" width="400" alt="Login Page">
 
 
-###  ID Card Registration (For Gazzeted)
+###  _ID Card Registration (For Gazzeted)_
 
 <img src="Frontend/assets/Emp Reg (Gaz).png" width="400" alt="ID Card Registration (For Gazzeted)">
 
 
-###  Status Page
+###  _Status Page_
 
 ##### Where Employees can check their ID Card Status using their respective UserID & DOB
 
@@ -63,7 +63,7 @@ ECoR-ID-Card/
 
 
 
-###  Admin Login Success
+###  _Admin Login Success_
 
 ##### Admin can login though LoginID & Password
 
@@ -71,7 +71,7 @@ ECoR-ID-Card/
 
 
 
-###  Employees List
+###  _Employees List_
 
 ##### This page shows the number of employees who have applied for the ID Cards
 
@@ -81,7 +81,7 @@ ECoR-ID-Card/
 
 
 
-###  ID Card
+###  _Generated ID Card_
 
 ##### This shows the final Identity Card
 
@@ -90,15 +90,6 @@ ECoR-ID-Card/
 <img src="Frontend/assets/Final ID Card.png" width="400" alt="Final ID Card">
 
 
-
-
-> Add screenshots of:
-- Admin dashboard
-- ID card preview
-- Login page
-- Employee table
-
-###### In Progress....
 ---
 ## Setup Instructions
 
