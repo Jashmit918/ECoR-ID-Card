@@ -40,6 +40,9 @@ ECoR-ID-Card/
 
 
 ## Screenshots
+### 🔐 Login Page
+![Login](Frontend/assets/Admin+Login+Page+Filled.png)
+
 
 > Add screenshots of:
 - Admin dashboard
