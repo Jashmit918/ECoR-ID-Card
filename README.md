@@ -91,4 +91,4 @@ npm run dev
 
 ---
 ## Internship Organization
-- East Coast Railways, Bhubaneswar, Official government body under Indian Railways.
+- East Coast Railways, Bhubaneswar - Official government body under Indian Railways.
