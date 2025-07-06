@@ -29,7 +29,6 @@ ECoR-ID-Card/
 - MongoDB (via Mongoose)
 - JWT (JSON Web Token)
 - Multer (for file uploads)
-- CORS
 
 ###  Frontend
 - React.js
