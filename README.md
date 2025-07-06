@@ -42,6 +42,8 @@ ECoR-ID-Card/
 ## Screenshots
 ### Login Page
 <img src="Frontend/assets/Admin%20Login%20Page%20Filled.png" width="350" alt="Login Page">
+### Registration for Non Gazzeted
+<img src="Frontend/assets/Emp Reg (NG).png" width="350" alt="Login Page">
 
 
 > Add screenshots of:
