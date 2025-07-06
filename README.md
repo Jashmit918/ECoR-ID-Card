@@ -41,7 +41,7 @@ ECoR-ID-Card/
 
 ## Screenshots
 ### 🔐 Login Page
-![Login](Frontend/assets/Admin Login Page Filled.png)
+![Login](Frontend/assets/Admin%20Login%20Page%20Filled.png)
 
 
 > Add screenshots of:
