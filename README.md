@@ -1,10 +1,10 @@
-#  ID Card Generation System (ICGS)
+# ID Card Generation System (ICGS)
 An official web-based ID card generation system for **Gazetted** and **Non-Gazetted** employees of **East Coast Railways (ECoR), Bhubaneswar**.  
 This full-stack project was developed as part of an Summer Internship Programme 2025 and automates the creation, management, and printing of employee ID cards.
 
 ---
 
-##  Project Structure
+## Project Structure
 ```
 ECoR-ID-Card/
 ├── Backend/ # Node.js + Express REST API
@@ -20,7 +20,7 @@ ECoR-ID-Card/
 -  Vercel-ready deployment (for frontend)
 - ️ Authenticated routes and protected access
 ---
-# ️ Tech Stack
+# Tech Stack
 
 ###  Backend
 - Node.js
@@ -39,7 +39,7 @@ ECoR-ID-Card/
 ---
 
 
-##  Screenshots
+## Screenshots
 
 > Add screenshots of:
 - Admin dashboard
@@ -49,7 +49,7 @@ ECoR-ID-Card/
 
 ###### In Progress....
 ---
-##  Setup Instructions
+## Setup Instructions
 
 ### Prerequisites
 - Node.js
@@ -84,11 +84,11 @@ npm run dev
 ```
 
 ---
-##  Authentication Flow
+## Authentication Flow
 - Login: Users authenticate using id/password.
 - Token: JWT stored in localStorage.
 - Protected Routes: Guards prevent access to sensitive areas unless authenticated.
 
 ---
-## ️ Internship Organization
+## Internship Organization
 - East Coast Railways, Bhubaneswar, Official government body under Indian Railways.
