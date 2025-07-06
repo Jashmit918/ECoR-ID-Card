@@ -5,9 +5,11 @@ This full-stack project was developed as part of an Summer Internship Programme 
 ---
 
 ## 📁 Project Structure
+```
 ECoR-ID-Card/
 ├── Backend/ # Node.js + Express REST API
 ├── Frontend/ # React.js  + Tailwind CSS (Web Interface)
+```
 ---
 ## 🚀 Features
 -  Admin & User Authentication with JWT
