@@ -20,7 +20,7 @@ ECoR-ID-Card/
 -  Vercel-ready deployment (for frontend)
 - ️ Authenticated routes and protected access
 ---
-# Tech Stack
+## Tech Stack
 
 ###  Backend
 - Node.js
