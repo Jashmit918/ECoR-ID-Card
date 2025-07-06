@@ -41,36 +41,49 @@ ECoR-ID-Card/
 
 ## Screenshots
 ### Login Page
+
 <img src="Frontend/assets/Admin%20Login%20Page%20Filled.png" width="400" alt="Login Page">
 
 
 ###  ID Card Registration (For Non Gazzeted)
+
 <img src="Frontend/assets/Emp Reg (NG).png" width="400" alt="Login Page">
 
 
 ###  ID Card Registration (For Gazzeted)
+
 <img src="Frontend/assets/Emp Reg (Gaz).png" width="400" alt="ID Card Registration (For Gazzeted)">
 
 
 ###  Status Page
+
 <img src="Frontend/assets/Status Page.png" width="400" alt="Status Page">
+
 ##### Where Employees can check their ID Card Status using their respective UserID & DOB
 
 
 ###  Admin Login Success
+
 <img src="Frontend/assets/Admin Login Success Popup.png" width="400" alt="Admin Login Success">
+
 ##### Admin can login though LoginID & Password
 
 
 ###  Employees List
+
 <img src="Frontend/assets/Applied List.png" width="400" alt="Employees List">
+
 ##### This page shows the number of employees who have applied for the ID Cards
+
 ##### Note: Only Admin can view this Page after sucessful Login
 
 
 ###  ID Card
+
 <img src="Frontend/assets/Final ID Card.png" width="400" alt="Final ID Card">
+
 ##### This shows the final Identity Card
+
 ##### Format: Printable PDF
 
 
